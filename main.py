@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 
 # Replace with your U.S. Census Bureau API key
-API_KEY = "ea4cf4edca163a7682936c1f208a8cee356d74f1"
+API_KEY = "api"
 
 # Define API endpoint and parameters
 BASE_URL = "https://api.census.gov/data/2021/acs/acs5"
